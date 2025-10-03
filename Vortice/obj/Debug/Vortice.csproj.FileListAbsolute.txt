@@ -1,0 +1,7 @@
+A:\UNI\Universidad #7\Programacion\Vortice\Vortice\bin\Debug\Vortice.exe.config
+A:\UNI\Universidad #7\Programacion\Vortice\Vortice\bin\Debug\Vortice.exe
+A:\UNI\Universidad #7\Programacion\Vortice\Vortice\bin\Debug\Vortice.pdb
+A:\UNI\Universidad #7\Programacion\Vortice\Vortice\obj\Debug\Vortice.csproj.AssemblyReference.cache
+A:\UNI\Universidad #7\Programacion\Vortice\Vortice\obj\Debug\Vortice.csproj.CoreCompileInputs.cache
+A:\UNI\Universidad #7\Programacion\Vortice\Vortice\obj\Debug\Vortice.exe
+A:\UNI\Universidad #7\Programacion\Vortice\Vortice\obj\Debug\Vortice.pdb
